@@ -1,2 +1,1 @@
-# simple_shell
-This is my second partnership project 
+0x16. C - Simple Shell
